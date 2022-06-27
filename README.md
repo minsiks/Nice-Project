@@ -2,10 +2,7 @@
 
 <aside>
 🖐️ 2조 : 김민식, 유정아, 안원영, 서예린
-
 </aside>
-
----
 
 ### 🗣️ 언어
 
@@ -20,9 +17,7 @@
 - JQuery
 - Ajax
 
-### 🛠️ 
-개발 도구
-
+### 🛠️ 개발 도구
 - Eclipse
 - Spring
 - Mybatis
@@ -32,9 +27,12 @@
 
 - Mysql
 
-### 🔱 
-협업도구
+### :framed_picture:Framewokr
 
+- SpringBoot
+- MyBatis
+
+### 🔱 협업도구
 - Zoom
 - [Github](https://github.com/minsiks/Team2-Semi_Project)
 - [ERDCloud](https://www.erdcloud.com/d/tBFT5AzhSeSA2sXz7)
